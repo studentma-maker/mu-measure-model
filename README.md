@@ -11,7 +11,7 @@ This project provides a model and method to measure the **friction coefficient (
 ---
 
 ## 🧾 Structure
-
+  ![](https://github.com/studentma-maker/mu-measure-model/blob/main/picture/picture1.png)
 ---
 
 ## 🧑‍🔬 Author & Lab
